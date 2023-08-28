@@ -9,3 +9,5 @@ identifying trends or patterns in the data, or exploring relationships between v
 **By working with the Nashville housing data, the project aims to provide valuable insights into the 
 local real estate market and assist in making informed decisions related to buying, selling, or 
 investing in properties in Nashville.**
+
+### This project was done using SQL Server Management Studio.
